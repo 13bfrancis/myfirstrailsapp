@@ -18,5 +18,6 @@ end
 ```javascript
 function my_great_method(){
     console.log('hello');
+    console.log('hello');
 }
 ```
